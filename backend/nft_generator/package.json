@@ -1,0 +1,23 @@
+{
+  "name": "pixel-art-nft-generator",
+  "version": "1.0.0",
+  "description": "基于图层混合技术的NFT元数据生成器",
+  "main": "simple-generator.js",
+  "scripts": {
+    "generate": "node simple-generator.js",
+    "generate-single": "node single-generator.js"
+  },
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "sha1": "^1.1.1"
+  },
+  "keywords": [
+    "nft",
+    "generative-art",
+    "metadata",
+    "blockchain",
+    "ethereum"
+  ],
+  "author": "NFT Generator",
+  "license": "MIT"
+}

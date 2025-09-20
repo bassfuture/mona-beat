@@ -1,0 +1,46 @@
+{
+  "name": "NFT #361717",
+  "description": "Generated NFT",
+  "image": "361717.png",
+  "dna": "1010040",
+  "edition": 361717,
+  "date": 1758359717874,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin1",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin5",
+      "rarity": "15.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

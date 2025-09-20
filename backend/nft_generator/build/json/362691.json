@@ -1,0 +1,46 @@
+{
+  "name": "NFT #362691",
+  "description": "Generated NFT",
+  "image": "362691.png",
+  "dna": "3230030",
+  "edition": 362691,
+  "date": 1758360692092,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purple",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin3",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "NFT #361579",
+  "description": "Generated NFT",
+  "image": "361579.png",
+  "dna": "3030040",
+  "edition": 361579,
+  "date": 1758359579704,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purple",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin1",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin5",
+      "rarity": "15.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

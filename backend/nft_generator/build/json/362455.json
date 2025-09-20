@@ -1,0 +1,46 @@
+{
+  "name": "NFT #362455",
+  "description": "Generated NFT",
+  "image": "362455.png",
+  "dna": "4030030",
+  "edition": 362455,
+  "date": 1758360455775,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "red",
+      "rarity": "10.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin1",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

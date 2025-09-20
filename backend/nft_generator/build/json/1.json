@@ -1,0 +1,46 @@
+{
+  "name": "NFT #1",
+  "description": "Generated NFT",
+  "image": "1.png",
+  "dna": "0010020",
+  "edition": 1,
+  "date": 1758349753811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue",
+      "rarity": "30.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin1",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin3",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

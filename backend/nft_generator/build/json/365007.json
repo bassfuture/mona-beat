@@ -1,0 +1,46 @@
+{
+  "name": "NFT #365007",
+  "description": "Generated NFT",
+  "image": "365007.png",
+  "dna": "3410010",
+  "edition": 365007,
+  "date": 1758363007698,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purple",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin5",
+      "rarity": "15.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

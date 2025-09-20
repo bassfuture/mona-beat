@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFT 展示 - {{.Name}}</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .nft-container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+            max-width: 800px;
+            width: 100%;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+        }
+        
+        .nft-image-section {
+            background: linear-gradient(45deg, #f0f0f0, #e0e0e0);
+            padding: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+        
+        .nft-image {
+            max-width: 100%;
+            max-height: 400px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease;
+        }
+        
+        .nft-image:hover {
+            transform: scale(1.05);
+        }
+        
+        .nft-info-section {
+            padding: 40px;
+            background: white;
+        }
+        
+        .nft-title {
+            font-size: 28px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .nft-description {
+            color: #666;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+        
+        .nft-details {
+            margin-bottom: 30px;
+        }
+        
+        .detail-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            padding: 10px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        .detail-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .detail-value {
+            color: #666;
+            font-family: monospace;
+        }
+        
+        .attributes-section {
+            margin-top: 30px;
+        }
+        
+        .attributes-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        .attributes-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+        }
+        
+        .attribute-card {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .attribute-type {
+            font-size: 12px;
+            opacity: 0.8;
+            margin-bottom: 5px;
+        }
+        
+        .attribute-value {
+            font-weight: bold;
+            font-size: 14px;
+        }
+        
+        .attribute-rarity {
+            font-size: 11px;
+            opacity: 0.7;
+            margin-top: 5px;
+        }
+        
+        .token-id {
+            background: linear-gradient(135deg, #ffeaa7, #fab1a0);
+            color: #2d3436;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+            margin-top: 20px;
+            font-family: monospace;
+            font-weight: bold;
+        }
+        
+        @media (max-width: 768px) {
+            .nft-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .nft-image-section {
+                padding: 20px;
+            }
+            
+            .nft-info-section {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="nft-container">
+        <div class="nft-image-section">
+            <img src="/image/{{.ImagePath}}" alt="{{.Name}}" class="nft-image" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiBmaWxsPSIjRjNGNEY2Ii8+CjxwYXRoIGQ9Ik0xMDAgNzBDMTA1LjUyMyA3MCAxMTAgNzQuNDc3IDExMCA4MFYxMjBDMTEwIDEyNS41MjMgMTA1LjUyMyAxMzAgMTAwIDEzMEM5NC40NzcgMTMwIDkwIDEyNS41MjMgOTAgMTIwVjgwQzkwIDc0LjQ3NyA5NC40NzcgNzAgMTAwIDcwWiIgZmlsbD0iIzlDQTNBRiIvPgo8L3N2Zz4K'">
+        </div>
+        
+        <div class="nft-info-section">
+            <h1 class="nft-title">{{.Name}}</h1>
+            <p class="nft-description">{{.Description}}</p>
+            
+            <div class="nft-details">
+                <div class="detail-item">
+                    <span class="detail-label">Token ID:</span>
+                    <span class="detail-value">{{.TokenID}}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">稀有度:</span>
+                    <span class="detail-value">{{.Rarity}}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">创建时间:</span>
+                    <span class="detail-value">{{.CreatedAt.Format "2006-01-02 15:04:05"}}</span>
+                </div>
+                {{if .DNA}}
+                <div class="detail-item">
+                    <span class="detail-label">DNA:</span>
+                    <span class="detail-value" style="word-break: break-all; font-size: 12px;">{{.DNA}}</span>
+                </div>
+                {{end}}
+            </div>
+            
+            {{if .Attributes}}
+            <div class="attributes-section">
+                <h2 class="attributes-title">属性特征</h2>
+                <div class="attributes-grid">
+                    {{range .Attributes}}
+                    <div class="attribute-card">
+                        <div class="attribute-type">{{.TraitType}}</div>
+                        <div class="attribute-value">{{if .Value}}{{.Value}}{{else}}无{{end}}</div>
+                        <div class="attribute-rarity">稀有度: {{.Rarity}}%</div>
+                    </div>
+                    {{end}}
+                </div>
+            </div>
+            {{end}}
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "name": "NFT #350574",
+  "description": "Generated NFT",
+  "image": "350574.png",
+  "dna": "2140040",
+  "edition": 350574,
+  "date": 1758349574973,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin5"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

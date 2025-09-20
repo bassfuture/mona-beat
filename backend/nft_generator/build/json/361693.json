@@ -1,0 +1,46 @@
+{
+  "name": "NFT #361693",
+  "description": "Generated NFT",
+  "image": "361693.png",
+  "dna": "1100000",
+  "edition": 361693,
+  "date": 1758359694118,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin1",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin1",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

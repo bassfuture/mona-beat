@@ -1,0 +1,46 @@
+{
+  "name": "NFT #350968",
+  "description": "Generated NFT",
+  "image": "350968.png",
+  "dna": "0130030",
+  "edition": 350968,
+  "date": 1758349968836,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue",
+      "rarity": "30.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

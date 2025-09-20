@@ -1,0 +1,46 @@
+{
+  "name": "NFT #364596",
+  "description": "Generated NFT",
+  "image": "364596.png",
+  "dna": "4420010",
+  "edition": 364596,
+  "date": 1758362596342,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "red",
+      "rarity": "10.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin5",
+      "rarity": "15.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin3",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

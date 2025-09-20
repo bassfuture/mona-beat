@@ -1,0 +1,46 @@
+{
+  "name": "NFT #362846",
+  "description": "Generated NFT",
+  "image": "362846.png",
+  "dna": "4310020",
+  "edition": 362846,
+  "date": 1758360846727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "red",
+      "rarity": "10.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin3",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

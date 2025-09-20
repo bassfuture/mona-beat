@@ -1,0 +1,46 @@
+{
+  "name": "NFT #361680",
+  "description": "Generated NFT",
+  "image": "361680.png",
+  "dna": "1400010",
+  "edition": 361680,
+  "date": 1758359680159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin5",
+      "rarity": "15.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin1",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "NFT #362845",
+  "description": "Generated NFT",
+  "image": "362845.png",
+  "dna": "0210020",
+  "edition": 362845,
+  "date": 1758360845993,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue",
+      "rarity": "30.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin3",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin3",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Captured Phoenix #1001",
+  "description": "A legendary phoenix captured in the mystical forest",
+  "image": "1001.png",
+  "dna": "1:green#25.png-0:penguin1#25.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+  "edition": 1001,
+  "date": 1758346938330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "g",
+      "rarity": "25"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "peng",
+      "rarity": "25"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "peng",
+      "rarity": "20"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "",
+      "rarity": "50"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "",
+      "rarity": "50"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "peng",
+      "rarity": "20"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "",
+      "rarity": "50"
+    }
+  ],
+  "compiler": "Capture Game NFT Generator"
+}

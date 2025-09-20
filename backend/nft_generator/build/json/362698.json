@@ -1,0 +1,46 @@
+{
+  "name": "NFT #362698",
+  "description": "Generated NFT",
+  "image": "362698.png",
+  "dna": "2320020",
+  "edition": 362698,
+  "date": 1758360699044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange",
+      "rarity": "15.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin3",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin3",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

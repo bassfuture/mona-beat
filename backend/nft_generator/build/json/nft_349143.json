@@ -1,0 +1,46 @@
+{
+  "name": "Capture NFT #349143",
+  "description": "A unique NFT generated from successful creature capture",
+  "image": "349143.png",
+  "dna": "3:purple#20.png-0:penguin1#25.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+  "edition": 349143,
+  "date": 1758348143681,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pu",
+      "rarity": "20"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "peng",
+      "rarity": "25"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "peng",
+      "rarity": "20"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "",
+      "rarity": "50"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "",
+      "rarity": "50"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "peng",
+      "rarity": "20"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "",
+      "rarity": "50"
+    }
+  ],
+  "compiler": "Capture Game NFT Generator"
+}

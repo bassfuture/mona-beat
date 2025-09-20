@@ -1,0 +1,4602 @@
+[
+  {
+    "name": "#1",
+    "description": "Pixel Art NFT Collection",
+    "image": "1.png",
+    "dna": "1:green#25.png-2:penguin3#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 1,
+    "date": 1758349441491,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#2",
+    "description": "Pixel Art NFT Collection",
+    "image": "2.png",
+    "dna": "2:orange#15.png-2:penguin3#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 2,
+    "date": 1758349441534,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#3",
+    "description": "Pixel Art NFT Collection",
+    "image": "3.png",
+    "dna": "1:green#25.png-1:penguin2#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 3,
+    "date": 1758349441581,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#4",
+    "description": "Pixel Art NFT Collection",
+    "image": "4.png",
+    "dna": "2:orange#15.png-4:penguin5#15.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 4,
+    "date": 1758349441620,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#5",
+    "description": "Pixel Art NFT Collection",
+    "image": "5.png",
+    "dna": "2:orange#15.png-4:penguin5#15.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 5,
+    "date": 1758349441657,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#6",
+    "description": "Pixel Art NFT Collection",
+    "image": "6.png",
+    "dna": "0:blue#30.png-4:penguin5#15.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 6,
+    "date": 1758349441692,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#7",
+    "description": "Pixel Art NFT Collection",
+    "image": "7.png",
+    "dna": "0:blue#30.png-4:penguin5#15.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 7,
+    "date": 1758349441727,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#8",
+    "description": "Pixel Art NFT Collection",
+    "image": "8.png",
+    "dna": "2:orange#15.png-3:penguin4#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 8,
+    "date": 1758349441770,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#9",
+    "description": "Pixel Art NFT Collection",
+    "image": "9.png",
+    "dna": "1:green#25.png-1:penguin2#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 9,
+    "date": 1758349441812,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#10",
+    "description": "Pixel Art NFT Collection",
+    "image": "10.png",
+    "dna": "2:orange#15.png-2:penguin3#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 10,
+    "date": 1758349441854,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#11",
+    "description": "Pixel Art NFT Collection",
+    "image": "11.png",
+    "dna": "1:green#25.png-2:penguin3#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 11,
+    "date": 1758349441892,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#12",
+    "description": "Pixel Art NFT Collection",
+    "image": "12.png",
+    "dna": "1:green#25.png-0:penguin1#25.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 12,
+    "date": 1758349441928,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#13",
+    "description": "Pixel Art NFT Collection",
+    "image": "13.png",
+    "dna": "1:green#25.png-2:penguin3#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 13,
+    "date": 1758349441964,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#14",
+    "description": "Pixel Art NFT Collection",
+    "image": "14.png",
+    "dna": "0:blue#30.png-0:penguin1#25.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 14,
+    "date": 1758349442004,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#15",
+    "description": "Pixel Art NFT Collection",
+    "image": "15.png",
+    "dna": "0:blue#30.png-2:penguin3#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 15,
+    "date": 1758349442042,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#16",
+    "description": "Pixel Art NFT Collection",
+    "image": "16.png",
+    "dna": "4:red#10.png-3:penguin4#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 16,
+    "date": 1758349442080,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "10"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#17",
+    "description": "Pixel Art NFT Collection",
+    "image": "17.png",
+    "dna": "3:purple#20.png-3:penguin4#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 17,
+    "date": 1758349442120,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#18",
+    "description": "Pixel Art NFT Collection",
+    "image": "18.png",
+    "dna": "1:green#25.png-2:penguin3#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 18,
+    "date": 1758349442161,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#19",
+    "description": "Pixel Art NFT Collection",
+    "image": "19.png",
+    "dna": "0:blue#30.png-1:penguin2#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 19,
+    "date": 1758349442195,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#20",
+    "description": "Pixel Art NFT Collection",
+    "image": "20.png",
+    "dna": "2:orange#15.png-4:penguin5#15.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 20,
+    "date": 1758349442234,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#21",
+    "description": "Pixel Art NFT Collection",
+    "image": "21.png",
+    "dna": "3:purple#20.png-2:penguin3#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 21,
+    "date": 1758349442268,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#22",
+    "description": "Pixel Art NFT Collection",
+    "image": "22.png",
+    "dna": "3:purple#20.png-2:penguin3#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 22,
+    "date": 1758349442302,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#23",
+    "description": "Pixel Art NFT Collection",
+    "image": "23.png",
+    "dna": "1:green#25.png-0:penguin1#25.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 23,
+    "date": 1758349442342,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#24",
+    "description": "Pixel Art NFT Collection",
+    "image": "24.png",
+    "dna": "1:green#25.png-3:penguin4#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 24,
+    "date": 1758349442377,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#25",
+    "description": "Pixel Art NFT Collection",
+    "image": "25.png",
+    "dna": "1:green#25.png-4:penguin5#15.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 25,
+    "date": 1758349442411,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#26",
+    "description": "Pixel Art NFT Collection",
+    "image": "26.png",
+    "dna": "2:orange#15.png-4:penguin5#15.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 26,
+    "date": 1758349442448,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#27",
+    "description": "Pixel Art NFT Collection",
+    "image": "27.png",
+    "dna": "3:purple#20.png-1:penguin2#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 27,
+    "date": 1758349442483,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#28",
+    "description": "Pixel Art NFT Collection",
+    "image": "28.png",
+    "dna": "1:green#25.png-3:penguin4#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 28,
+    "date": 1758349442517,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#29",
+    "description": "Pixel Art NFT Collection",
+    "image": "29.png",
+    "dna": "0:blue#30.png-2:penguin3#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 29,
+    "date": 1758349442551,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#30",
+    "description": "Pixel Art NFT Collection",
+    "image": "30.png",
+    "dna": "1:green#25.png-3:penguin4#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 30,
+    "date": 1758349442592,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#31",
+    "description": "Pixel Art NFT Collection",
+    "image": "31.png",
+    "dna": "2:orange#15.png-4:penguin5#15.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 31,
+    "date": 1758349442627,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#32",
+    "description": "Pixel Art NFT Collection",
+    "image": "32.png",
+    "dna": "0:blue#30.png-3:penguin4#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 32,
+    "date": 1758349442670,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#33",
+    "description": "Pixel Art NFT Collection",
+    "image": "33.png",
+    "dna": "2:orange#15.png-2:penguin3#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 33,
+    "date": 1758349442711,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#34",
+    "description": "Pixel Art NFT Collection",
+    "image": "34.png",
+    "dna": "0:blue#30.png-1:penguin2#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 34,
+    "date": 1758349442755,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#35",
+    "description": "Pixel Art NFT Collection",
+    "image": "35.png",
+    "dna": "2:orange#15.png-0:penguin1#25.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 35,
+    "date": 1758349442792,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#36",
+    "description": "Pixel Art NFT Collection",
+    "image": "36.png",
+    "dna": "1:green#25.png-3:penguin4#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 36,
+    "date": 1758349442830,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#37",
+    "description": "Pixel Art NFT Collection",
+    "image": "37.png",
+    "dna": "0:blue#30.png-3:penguin4#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 37,
+    "date": 1758349442866,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#38",
+    "description": "Pixel Art NFT Collection",
+    "image": "38.png",
+    "dna": "3:purple#20.png-1:penguin2#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 38,
+    "date": 1758349442904,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#39",
+    "description": "Pixel Art NFT Collection",
+    "image": "39.png",
+    "dna": "2:orange#15.png-3:penguin4#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 39,
+    "date": 1758349442939,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#40",
+    "description": "Pixel Art NFT Collection",
+    "image": "40.png",
+    "dna": "0:blue#30.png-2:penguin3#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 40,
+    "date": 1758349442978,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#41",
+    "description": "Pixel Art NFT Collection",
+    "image": "41.png",
+    "dna": "1:green#25.png-2:penguin3#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 41,
+    "date": 1758349443020,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#42",
+    "description": "Pixel Art NFT Collection",
+    "image": "42.png",
+    "dna": "0:blue#30.png-0:penguin1#25.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 42,
+    "date": 1758349443054,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#43",
+    "description": "Pixel Art NFT Collection",
+    "image": "43.png",
+    "dna": "0:blue#30.png-0:penguin1#25.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 43,
+    "date": 1758349443093,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#44",
+    "description": "Pixel Art NFT Collection",
+    "image": "44.png",
+    "dna": "3:purple#20.png-0:penguin1#25.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 44,
+    "date": 1758349443128,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#45",
+    "description": "Pixel Art NFT Collection",
+    "image": "45.png",
+    "dna": "0:blue#30.png-1:penguin2#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 45,
+    "date": 1758349443166,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#46",
+    "description": "Pixel Art NFT Collection",
+    "image": "46.png",
+    "dna": "3:purple#20.png-3:penguin4#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 46,
+    "date": 1758349443202,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#47",
+    "description": "Pixel Art NFT Collection",
+    "image": "47.png",
+    "dna": "4:red#10.png-1:penguin2#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 47,
+    "date": 1758349443239,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "10"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#48",
+    "description": "Pixel Art NFT Collection",
+    "image": "48.png",
+    "dna": "3:purple#20.png-0:penguin1#25.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 48,
+    "date": 1758349443273,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#49",
+    "description": "Pixel Art NFT Collection",
+    "image": "49.png",
+    "dna": "2:orange#15.png-3:penguin4#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 49,
+    "date": 1758349443312,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#50",
+    "description": "Pixel Art NFT Collection",
+    "image": "50.png",
+    "dna": "3:purple#20.png-4:penguin5#15.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 50,
+    "date": 1758349443351,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#51",
+    "description": "Pixel Art NFT Collection",
+    "image": "51.png",
+    "dna": "1:green#25.png-0:penguin1#25.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 51,
+    "date": 1758349443391,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#52",
+    "description": "Pixel Art NFT Collection",
+    "image": "52.png",
+    "dna": "4:red#10.png-1:penguin2#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 52,
+    "date": 1758349443430,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "10"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#53",
+    "description": "Pixel Art NFT Collection",
+    "image": "53.png",
+    "dna": "0:blue#30.png-2:penguin3#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 53,
+    "date": 1758349443473,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#54",
+    "description": "Pixel Art NFT Collection",
+    "image": "54.png",
+    "dna": "3:purple#20.png-2:penguin3#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 54,
+    "date": 1758349443519,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#55",
+    "description": "Pixel Art NFT Collection",
+    "image": "55.png",
+    "dna": "4:red#10.png-0:penguin1#25.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 55,
+    "date": 1758349443557,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "10"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#56",
+    "description": "Pixel Art NFT Collection",
+    "image": "56.png",
+    "dna": "1:green#25.png-3:penguin4#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 56,
+    "date": 1758349443604,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#57",
+    "description": "Pixel Art NFT Collection",
+    "image": "57.png",
+    "dna": "4:red#10.png-4:penguin5#15.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 57,
+    "date": 1758349443645,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "10"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#58",
+    "description": "Pixel Art NFT Collection",
+    "image": "58.png",
+    "dna": "0:blue#30.png-0:penguin1#25.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 58,
+    "date": 1758349443684,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#59",
+    "description": "Pixel Art NFT Collection",
+    "image": "59.png",
+    "dna": "0:blue#30.png-0:penguin1#25.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 59,
+    "date": 1758349443722,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#60",
+    "description": "Pixel Art NFT Collection",
+    "image": "60.png",
+    "dna": "3:purple#20.png-3:penguin4#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 60,
+    "date": 1758349443762,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#61",
+    "description": "Pixel Art NFT Collection",
+    "image": "61.png",
+    "dna": "3:purple#20.png-3:penguin4#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 61,
+    "date": 1758349443798,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#62",
+    "description": "Pixel Art NFT Collection",
+    "image": "62.png",
+    "dna": "1:green#25.png-0:penguin1#25.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 62,
+    "date": 1758349443837,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#63",
+    "description": "Pixel Art NFT Collection",
+    "image": "63.png",
+    "dna": "1:green#25.png-4:penguin5#15.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 63,
+    "date": 1758349443872,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#64",
+    "description": "Pixel Art NFT Collection",
+    "image": "64.png",
+    "dna": "3:purple#20.png-0:penguin1#25.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 64,
+    "date": 1758349443906,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#65",
+    "description": "Pixel Art NFT Collection",
+    "image": "65.png",
+    "dna": "3:purple#20.png-1:penguin2#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 65,
+    "date": 1758349443941,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#66",
+    "description": "Pixel Art NFT Collection",
+    "image": "66.png",
+    "dna": "0:blue#30.png-4:penguin5#15.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 66,
+    "date": 1758349443977,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#67",
+    "description": "Pixel Art NFT Collection",
+    "image": "67.png",
+    "dna": "0:blue#30.png-2:penguin3#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 67,
+    "date": 1758349444015,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#68",
+    "description": "Pixel Art NFT Collection",
+    "image": "68.png",
+    "dna": "0:blue#30.png-0:penguin1#25.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 68,
+    "date": 1758349444051,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#69",
+    "description": "Pixel Art NFT Collection",
+    "image": "69.png",
+    "dna": "2:orange#15.png-1:penguin2#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 69,
+    "date": 1758349444089,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#70",
+    "description": "Pixel Art NFT Collection",
+    "image": "70.png",
+    "dna": "3:purple#20.png-1:penguin2#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 70,
+    "date": 1758349444131,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#71",
+    "description": "Pixel Art NFT Collection",
+    "image": "71.png",
+    "dna": "4:red#10.png-1:penguin2#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 71,
+    "date": 1758349444171,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "10"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#72",
+    "description": "Pixel Art NFT Collection",
+    "image": "72.png",
+    "dna": "2:orange#15.png-1:penguin2#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 72,
+    "date": 1758349444206,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#73",
+    "description": "Pixel Art NFT Collection",
+    "image": "73.png",
+    "dna": "2:orange#15.png-0:penguin1#25.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 73,
+    "date": 1758349444241,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#74",
+    "description": "Pixel Art NFT Collection",
+    "image": "74.png",
+    "dna": "0:blue#30.png-4:penguin5#15.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 74,
+    "date": 1758349444275,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#75",
+    "description": "Pixel Art NFT Collection",
+    "image": "75.png",
+    "dna": "0:blue#30.png-3:penguin4#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 75,
+    "date": 1758349444311,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#76",
+    "description": "Pixel Art NFT Collection",
+    "image": "76.png",
+    "dna": "1:green#25.png-2:penguin3#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 76,
+    "date": 1758349444347,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#77",
+    "description": "Pixel Art NFT Collection",
+    "image": "77.png",
+    "dna": "2:orange#15.png-4:penguin5#15.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 77,
+    "date": 1758349444385,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#78",
+    "description": "Pixel Art NFT Collection",
+    "image": "78.png",
+    "dna": "1:green#25.png-2:penguin3#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 78,
+    "date": 1758349444422,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#79",
+    "description": "Pixel Art NFT Collection",
+    "image": "79.png",
+    "dna": "3:purple#20.png-3:penguin4#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-2:penguin3#20.png-0:none#50.png",
+    "edition": 79,
+    "date": 1758349444463,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#80",
+    "description": "Pixel Art NFT Collection",
+    "image": "80.png",
+    "dna": "4:red#10.png-2:penguin3#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 80,
+    "date": 1758349444504,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "10"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#81",
+    "description": "Pixel Art NFT Collection",
+    "image": "81.png",
+    "dna": "0:blue#30.png-0:penguin1#25.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 81,
+    "date": 1758349444544,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#82",
+    "description": "Pixel Art NFT Collection",
+    "image": "82.png",
+    "dna": "1:green#25.png-2:penguin3#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 82,
+    "date": 1758349444578,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#83",
+    "description": "Pixel Art NFT Collection",
+    "image": "83.png",
+    "dna": "3:purple#20.png-3:penguin4#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 83,
+    "date": 1758349444612,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#84",
+    "description": "Pixel Art NFT Collection",
+    "image": "84.png",
+    "dna": "0:blue#30.png-1:penguin2#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 84,
+    "date": 1758349444648,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#85",
+    "description": "Pixel Art NFT Collection",
+    "image": "85.png",
+    "dna": "4:red#10.png-3:penguin4#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 85,
+    "date": 1758349444683,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "10"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#86",
+    "description": "Pixel Art NFT Collection",
+    "image": "86.png",
+    "dna": "0:blue#30.png-3:penguin4#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 86,
+    "date": 1758349444718,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#87",
+    "description": "Pixel Art NFT Collection",
+    "image": "87.png",
+    "dna": "1:green#25.png-2:penguin3#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 87,
+    "date": 1758349444753,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#88",
+    "description": "Pixel Art NFT Collection",
+    "image": "88.png",
+    "dna": "1:green#25.png-3:penguin4#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 88,
+    "date": 1758349444791,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#89",
+    "description": "Pixel Art NFT Collection",
+    "image": "89.png",
+    "dna": "1:green#25.png-4:penguin5#15.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 89,
+    "date": 1758349444826,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#90",
+    "description": "Pixel Art NFT Collection",
+    "image": "90.png",
+    "dna": "0:blue#30.png-0:penguin1#25.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 90,
+    "date": 1758349444864,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#91",
+    "description": "Pixel Art NFT Collection",
+    "image": "91.png",
+    "dna": "0:blue#30.png-4:penguin5#15.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 91,
+    "date": 1758349444902,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#92",
+    "description": "Pixel Art NFT Collection",
+    "image": "92.png",
+    "dna": "1:green#25.png-1:penguin2#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 92,
+    "date": 1758349444936,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#93",
+    "description": "Pixel Art NFT Collection",
+    "image": "93.png",
+    "dna": "3:purple#20.png-4:penguin5#15.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 93,
+    "date": 1758349444974,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#94",
+    "description": "Pixel Art NFT Collection",
+    "image": "94.png",
+    "dna": "1:green#25.png-1:penguin2#20.png-0:penguin1#25.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 94,
+    "date": 1758349445013,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "g",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#95",
+    "description": "Pixel Art NFT Collection",
+    "image": "95.png",
+    "dna": "2:orange#15.png-1:penguin2#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-3:penguin4#20.png-0:none#50.png",
+    "edition": 95,
+    "date": 1758349445046,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#96",
+    "description": "Pixel Art NFT Collection",
+    "image": "96.png",
+    "dna": "0:blue#30.png-3:penguin4#20.png-3:penguin4#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 96,
+    "date": 1758349445084,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#97",
+    "description": "Pixel Art NFT Collection",
+    "image": "97.png",
+    "dna": "3:purple#20.png-1:penguin2#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-0:penguin1#25.png-0:none#50.png",
+    "edition": 97,
+    "date": 1758349445119,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pu",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "25"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#98",
+    "description": "Pixel Art NFT Collection",
+    "image": "98.png",
+    "dna": "0:blue#30.png-3:penguin4#20.png-4:penguin5#15.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 98,
+    "date": 1758349445160,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "",
+        "rarity": "30"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#99",
+    "description": "Pixel Art NFT Collection",
+    "image": "99.png",
+    "dna": "2:orange#15.png-2:penguin3#20.png-2:penguin3#20.png-0:none#50.png-0:none#50.png-4:penguin5#15.png-0:none#50.png",
+    "edition": 99,
+    "date": 1758349445198,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  },
+  {
+    "name": "#100",
+    "description": "Pixel Art NFT Collection",
+    "image": "100.png",
+    "dna": "2:orange#15.png-2:penguin3#20.png-1:penguin2#20.png-0:none#50.png-0:none#50.png-1:penguin2#20.png-0:none#50.png",
+    "edition": 100,
+    "date": 1758349445236,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "or",
+        "rarity": "15"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "",
+        "rarity": "50"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "peng",
+        "rarity": "20"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "",
+        "rarity": "50"
+      }
+    ],
+    "compiler": "Pixel Art NFT Generator"
+  }
+]

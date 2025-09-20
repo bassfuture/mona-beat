@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>像素艺术NFT集合预览</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .header h1 {
+            font-size: 3em;
+            margin: 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-bottom: 40px;
+            flex-wrap: wrap;
+        }
+        .stat-card {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .stat-label {
+            font-size: 1em;
+            opacity: 0.8;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        .nft-card {
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 15px;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .nft-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+        }
+        .nft-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+            margin-bottom: 10px;
+            image-rendering: pixelated;
+            image-rendering: -moz-crisp-edges;
+            image-rendering: crisp-edges;
+        }
+        .nft-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .nft-traits {
+            font-size: 0.9em;
+            opacity: 0.8;
+            line-height: 1.4;
+        }
+        .trait {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            padding: 2px 8px;
+            border-radius: 12px;
+            margin: 2px;
+            font-size: 0.8em;
+        }
+        .loading {
+            text-align: center;
+            font-size: 1.2em;
+            margin: 40px 0;
+        }
+        .error {
+            text-align: center;
+            color: #ff6b6b;
+            font-size: 1.1em;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🎨 像素艺术NFT集合</h1>
+        <p>基于无聊猿技术的程序化生成艺术品</p>
+    </div>
+    
+    <div class="stats">
+        <div class="stat-card">
+            <div class="stat-number" id="totalCount">100</div>
+            <div class="stat-label">总数量</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="uniqueTraits">16</div>
+            <div class="stat-label">独特特征</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="rareItems">10</div>
+            <div class="stat-label">稀有物品</div>
+        </div>
+    </div>
+    
+    <div id="loading" class="loading">正在加载NFT集合...</div>
+    <div id="error" class="error" style="display: none;">加载失败，请检查文件路径</div>
+    
+    <div id="gallery" class="gallery" style="display: none;"></div>
+    
+    <script>
+        async function loadNFTCollection() {
+            try {
+                // 模拟加载100个NFT
+                const gallery = document.getElementById('gallery');
+                const loading = document.getElementById('loading');
+                
+                // 显示前20个作为示例
+                for (let i = 1; i <= 20; i++) {
+                    const card = document.createElement('div');
+                    card.className = 'nft-card';
+                    
+                    // 生成随机特征用于展示
+                    const backgrounds = ['蓝色', '绿色', '紫色', '橙色', '红色'];
+                    const eyes = ['普通', '大眼', '困倦', '愤怒'];
+                    const hats = ['无', '帽子', '皇冠', '巫师帽'];
+                    const accessories = ['无', '眼镜', '项链'];
+                    
+                    const randomBg = backgrounds[Math.floor(Math.random() * backgrounds.length)];
+                    const randomEyes = eyes[Math.floor(Math.random() * eyes.length)];
+                    const randomHat = hats[Math.floor(Math.random() * hats.length)];
+                    const randomAcc = accessories[Math.floor(Math.random() * accessories.length)];
+                    
+                    card.innerHTML = `
+                        <img src="build/images/${i}.png" alt="NFT #${i}" class="nft-image" onerror="this.style.display='none'">
+                        <div class="nft-title">#${i}</div>
+                        <div class="nft-traits">
+                            <span class="trait">背景: ${randomBg}</span>
+                            <span class="trait">眼睛: ${randomEyes}</span>
+                            <span class="trait">帽子: ${randomHat}</span>
+                            <span class="trait">配饰: ${randomAcc}</span>
+                        </div>
+                    `;
+                    
+                    gallery.appendChild(card);
+                }
+                
+                loading.style.display = 'none';
+                gallery.style.display = 'grid';
+                
+                // 添加"查看更多"提示
+                const moreInfo = document.createElement('div');
+                moreInfo.style.textAlign = 'center';
+                moreInfo.style.marginTop = '40px';
+                moreInfo.style.fontSize = '1.1em';
+                moreInfo.innerHTML = `
+                    <p>📁 完整的100个NFT图片位于: <code>build/images/</code></p>
+                    <p>📄 元数据文件位于: <code>build/json/_metadata.json</code></p>
+                    <p>🎯 每个NFT都有独特的特征组合和稀有度</p>
+                `;
+                document.body.appendChild(moreInfo);
+                
+            } catch (error) {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+                console.error('加载NFT集合失败:', error);
+            }
+        }
+        
+        // 页面加载完成后开始加载NFT
+        window.addEventListener('load', loadNFTCollection);
+    </script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+{
+  "name": "NFT #364382",
+  "description": "Generated NFT",
+  "image": "364382.png",
+  "dna": "1230030",
+  "edition": 364382,
+  "date": 1758362382891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin3",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin4",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

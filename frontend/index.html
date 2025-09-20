@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; connect-src 'self' http://localhost:8081 http://59.110.161.193:8080 https://cdn.jsdelivr.net; img-src 'self' data:;">
+    <title>NFT Capture Game - 区块链NFT捕获游戏</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- 背景粒子效果 -->
+    <div id="particles-js"></div>
+    
+    <!-- 主容器 -->
+    <div class="game-container">
+        <!-- 头部导航 -->
+        <header class="game-header">
+            <div class="logo">
+                <i class="fas fa-gem"></i>
+                <span>NFT Capture</span>
+            </div>
+            <div class="wallet-section">
+                <button id="connectWallet" class="wallet-btn">
+                    <i class="fas fa-wallet"></i>
+                    连接钱包
+                </button>
+                <div id="walletInfo" class="wallet-info hidden">
+                    <span id="walletAddress"></span>
+                    <button id="disconnectWallet" class="disconnect-btn">
+                        <i class="fas fa-sign-out-alt"></i>
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- 游戏状态栏 -->
+        <div class="game-stats">
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-mouse-pointer"></i>
+                </div>
+                <div class="stat-info">
+                    <div class="stat-label">剩余敲击</div>
+                    <div class="stat-value" id="remainingTaps">0</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-trophy"></i>
+                </div>
+                <div class="stat-info">
+                    <div class="stat-label">获得NFT</div>
+                    <div class="stat-value" id="totalNFTs">0</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">
+                    <i class="fas fa-fire"></i>
+                </div>
+                <div class="stat-info">
+                    <div class="stat-label">成功率</div>
+                    <div class="stat-value" id="successRate">0%</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 主游戏区域 -->
+        <div class="game-area">
+            <!-- 游戏开始界面 -->
+            <div id="startScreen" class="start-screen">
+                <div class="start-content">
+                    <h1 class="game-title">
+                        <span class="title-main">NFT Capture Game</span>
+                        <span class="title-sub">区块链NFT捕获游戏</span>
+                    </h1>
+                    <p class="game-description">
+                        连接你的钱包，开始敲击捕获稀有NFT！<br>
+                        每次敲击都有机会获得独特的区块链NFT
+                    </p>
+                    <button id="startGame" class="start-btn" disabled>
+                        <i class="fas fa-play"></i>
+                        开始游戏
+                    </button>
+                </div>
+            </div>
+
+            <!-- 游戏进行界面 -->
+            <div id="gameScreen" class="game-screen hidden">
+                <div class="tap-area">
+                    <div class="tap-target" id="tapTarget">
+                        <div class="tap-circle">
+                            <div class="tap-inner">
+                                <i class="fas fa-gem tap-icon"></i>
+                                <div class="tap-text">点击捕获</div>
+                            </div>
+                        </div>
+                        <div class="tap-ripple"></div>
+                    </div>
+                    
+                    <!-- 敲击效果 -->
+                    <div class="tap-effects" id="tapEffects"></div>
+                </div>
+
+                <!-- 进度条 -->
+                <div class="progress-container">
+                    <div class="progress-label">捕获进度</div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- NFT展示区域 -->
+        <div id="nftDisplay" class="nft-display hidden">
+            <div class="nft-card">
+                <div class="nft-header">
+                    <h3>🎉 恭喜获得NFT！</h3>
+                </div>
+                <div class="nft-content">
+                    <div class="nft-image">
+                        <img id="nftImage" src="" alt="NFT">
+                    </div>
+                    <div class="nft-info">
+                        <div class="nft-name" id="nftName"></div>
+                        <div class="nft-rarity" id="nftRarity"></div>
+                        <div class="nft-id" id="nftTokenId"></div>
+                    </div>
+                </div>
+                <div class="nft-actions">
+                    <button class="view-tx-btn" id="viewTransaction">
+                        <i class="fas fa-external-link-alt"></i>
+                        查看交易
+                    </button>
+                    <button class="continue-btn" id="continueGame">
+                        继续游戏
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 我的NFT收藏 -->
+        <div class="nft-collection">
+            <h3>
+                <i class="fas fa-images"></i>
+                我的NFT收藏
+            </h3>
+            <div id="nftGrid" class="nft-grid">
+                <!-- NFT卡片将在这里动态生成 -->
+            </div>
+        </div>
+    </div>
+
+    <!-- 加载动画 -->
+    <div id="loadingOverlay" class="loading-overlay hidden">
+        <div class="loading-spinner">
+            <div class="spinner"></div>
+            <div class="loading-text">处理中...</div>
+        </div>
+    </div>
+
+    <!-- 通知系统 -->
+    <div id="notifications" class="notifications"></div>
+
+    <!-- JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script src="js/particles-config.js"></script>
+    <script src="js/wallet.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/game.js"></script>
+    <script src="js/nft.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

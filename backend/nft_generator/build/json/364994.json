@@ -1,0 +1,46 @@
+{
+  "name": "NFT #364994",
+  "description": "Generated NFT",
+  "image": "364994.png",
+  "dna": "2000010",
+  "edition": 364994,
+  "date": 1758362994655,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange",
+      "rarity": "15.0%"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin1",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin1",
+      "rarity": "25.0%"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none",
+      "rarity": "100.0%"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin2",
+      "rarity": "20.0%"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none",
+      "rarity": "100.0%"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}

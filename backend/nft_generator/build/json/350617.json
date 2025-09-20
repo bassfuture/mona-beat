@@ -1,0 +1,39 @@
+{
+  "name": "NFT #350617",
+  "description": "Generated NFT",
+  "image": "350617.png",
+  "dna": "2030030",
+  "edition": 350617,
+  "date": 1758349617661,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "penguin1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "penguin4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "none"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "penguin4"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none"
+    }
+  ],
+  "compiler": "NFT Generator v1.0.0"
+}
